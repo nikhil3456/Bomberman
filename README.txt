@@ -1,5 +1,5 @@
 Language: Python 2.7
-Packages Needed:
+Python Libraries Needed:
 	- numpy
 	- termcolor
 
