@@ -47,7 +47,7 @@ Controls:
 	- b: plant bomb
 	- q: quit game
 
-Some Important rules:
+Some important rules:
     - Enemy or Player can move in Explosion area and they will destroy if they do so.
     - Smart enemies can't move in explosion
     - No one can move on the Bomb after planting the bomb by bomberman
